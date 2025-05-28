@@ -1,2 +1,2 @@
 # MajorProject
-This is my new project - Wanderlust
+This is my First project - Wanderlust
